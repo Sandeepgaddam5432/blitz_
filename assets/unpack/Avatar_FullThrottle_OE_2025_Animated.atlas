@@ -1,0 +1,391 @@
+
+Avatar_FullThrottle_OE_2025_Animated.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Lower_L
+  rotate: false
+  xy: 1457, 491
+  size: 112, 117
+  orig: 112, 117
+  offset: 0, 0
+  index: -1
+Arm_Lower_R
+  rotate: false
+  xy: 1579, 491
+  size: 112, 117
+  orig: 112, 117
+  offset: 0, 0
+  index: -1
+Arm_Upper_L
+  rotate: false
+  xy: 833, 513
+  size: 184, 159
+  orig: 184, 159
+  offset: 0, 0
+  index: -1
+Arm_Upper_R
+  rotate: false
+  xy: 569, 420
+  size: 184, 159
+  orig: 184, 159
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 10, 512
+  size: 486, 490
+  orig: 486, 490
+  offset: 0, 0
+  index: -1
+Bike
+  rotate: false
+  xy: 506, 682
+  size: 585, 320
+  orig: 585, 320
+  offset: 0, 0
+  index: -1
+Building_1
+  rotate: true
+  xy: 10, 45
+  size: 88, 278
+  orig: 88, 278
+  offset: 0, 0
+  index: -1
+Building_2
+  rotate: true
+  xy: 1674, 627
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+Colar_L
+  rotate: false
+  xy: 1973, 877
+  size: 58, 125
+  orig: 58, 125
+  offset: 0, 0
+  index: -1
+Colar_R
+  rotate: false
+  xy: 763, 454
+  size: 58, 125
+  orig: 58, 125
+  offset: 0, 0
+  index: -1
+Engine
+  rotate: false
+  xy: 506, 589
+  size: 317, 83
+  orig: 317, 83
+  offset: 0, 0
+  index: -1
+Eyes_1
+  rotate: false
+  xy: 10, 10
+  size: 83, 25
+  orig: 83, 25
+  offset: 0, 0
+  index: -1
+Eyes_2
+  rotate: false
+  xy: 1755, 759
+  size: 83, 25
+  orig: 83, 25
+  offset: 0, 0
+  index: -1
+HairStrand_00000
+  rotate: false
+  xy: 1701, 542
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00001
+  rotate: false
+  xy: 831, 428
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00002
+  rotate: false
+  xy: 926, 428
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00003
+  rotate: false
+  xy: 1021, 421
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00008
+  rotate: false
+  xy: 1021, 421
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00013
+  rotate: false
+  xy: 1021, 421
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00004
+  rotate: true
+  xy: 298, 48
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00009
+  rotate: true
+  xy: 298, 48
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00014
+  rotate: true
+  xy: 298, 48
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00005
+  rotate: false
+  xy: 383, 71
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00010
+  rotate: false
+  xy: 383, 71
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00006
+  rotate: false
+  xy: 478, 71
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00011
+  rotate: false
+  xy: 478, 71
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00007
+  rotate: false
+  xy: 573, 72
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+HairStrand_00012
+  rotate: false
+  xy: 573, 72
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+Hair_00000
+  rotate: false
+  xy: 567, 157
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00005
+  rotate: false
+  xy: 567, 157
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00010
+  rotate: false
+  xy: 567, 157
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00001
+  rotate: true
+  xy: 1027, 506
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00006
+  rotate: true
+  xy: 1027, 506
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00011
+  rotate: true
+  xy: 1027, 506
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00002
+  rotate: false
+  xy: 1146, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00007
+  rotate: false
+  xy: 1146, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00012
+  rotate: false
+  xy: 1146, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00003
+  rotate: false
+  xy: 1322, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00008
+  rotate: false
+  xy: 1322, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00013
+  rotate: false
+  xy: 1322, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00004
+  rotate: false
+  xy: 1498, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00009
+  rotate: false
+  xy: 1498, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Hair_00014
+  rotate: false
+  xy: 1498, 618
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 569, 276
+  size: 134, 181
+  orig: 134, 181
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 351, 156
+  size: 206, 128
+  orig: 206, 128
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 1736, 1001
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+RoadGroundDash
+  rotate: false
+  xy: 1101, 955
+  size: 625, 47
+  orig: 625, 47
+  offset: 0, 0
+  index: -1
+ShadowCross_1
+  rotate: false
+  xy: 1101, 737
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+ShadowCross_2
+  rotate: false
+  xy: 1319, 737
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+ShadowCross_3
+  rotate: false
+  xy: 1537, 737
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+ShadowCross_4
+  rotate: false
+  xy: 1755, 794
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+ShadowCross_5
+  rotate: false
+  xy: 351, 294
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 1318, 488
+  size: 129, 120
+  orig: 129, 120
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 10, 143
+  size: 331, 359
+  orig: 331, 359
+  offset: 0, 0
+  index: -1
+Wheel
+  rotate: false
+  xy: 1146, 519
+  size: 162, 89
+  orig: 162, 89
+  offset: 0, 0
+  index: -1

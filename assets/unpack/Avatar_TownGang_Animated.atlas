@@ -1,0 +1,118 @@
+
+Avatar_TownGang_Animated.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 10, 489
+  size: 525, 525
+  orig: 525, 525
+  offset: 0, 0
+  index: -1
+Buildings
+  rotate: false
+  xy: 545, 493
+  size: 525, 521
+  orig: 525, 521
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 318, 260
+  size: 207, 219
+  orig: 207, 219
+  offset: 0, 0
+  index: -1
+Dot
+  rotate: false
+  xy: 480, 216
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+EyesShut
+  rotate: false
+  xy: 10, 15
+  size: 184, 35
+  orig: 184, 35
+  offset: 0, 0
+  index: -1
+Flame1
+  rotate: false
+  xy: 204, 10
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+Flame2
+  rotate: false
+  xy: 318, 63
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+Flame3
+  rotate: true
+  xy: 1080, 500
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+FlameBig
+  rotate: false
+  xy: 1703, 910
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 10, 60
+  size: 298, 419
+  orig: 298, 419
+  offset: 0, 0
+  index: -1
+Head_B
+  rotate: false
+  xy: 1379, 794
+  size: 157, 220
+  orig: 157, 220
+  offset: 0, 0
+  index: -1
+Pupil
+  rotate: false
+  xy: 1546, 876
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+ShoulderL
+  rotate: false
+  xy: 1080, 544
+  size: 279, 229
+  orig: 279, 229
+  offset: 0, 0
+  index: -1
+ShoulderL_B
+  rotate: false
+  xy: 1546, 894
+  size: 147, 120
+  orig: 147, 120
+  offset: 0, 0
+  index: -1
+ShoulderR
+  rotate: false
+  xy: 1080, 783
+  size: 289, 231
+  orig: 289, 231
+  offset: 0, 0
+  index: -1
+ShoulderR_B
+  rotate: false
+  xy: 318, 128
+  size: 152, 122
+  orig: 152, 122
+  offset: 0, 0
+  index: -1

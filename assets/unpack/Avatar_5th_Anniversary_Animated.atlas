@@ -1,0 +1,118 @@
+
+Avatar_5th_Anniversary_Animated.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1422, 554
+  size: 458, 459
+  orig: 458, 459
+  offset: 0, 0
+  index: -1
+BodyLowerLayer
+  rotate: false
+  xy: 10, 77
+  size: 428, 282
+  orig: 428, 282
+  offset: 0, 0
+  index: -1
+BodyTopLayer
+  rotate: true
+  xy: 1210, 64
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: -1
+Colar
+  rotate: false
+  xy: 1795, 458
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+Eyelids
+  rotate: false
+  xy: 1210, 23
+  size: 204, 31
+  orig: 204, 31
+  offset: 0, 0
+  index: -1
+EyesWhite
+  rotate: true
+  xy: 1890, 845
+  size: 168, 95
+  orig: 168, 95
+  offset: 0, 0
+  index: -1
+Glass
+  rotate: false
+  xy: 448, 13
+  size: 219, 346
+  orig: 219, 346
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 745, 475
+  size: 538, 667
+  orig: 538, 667
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 1890, 834
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+LiquidTop
+  rotate: false
+  xy: 1422, 510
+  size: 167, 34
+  orig: 167, 34
+  offset: 0, 0
+  index: -1
+LiquidTop2
+  rotate: false
+  xy: 10, 33
+  size: 167, 34
+  orig: 167, 34
+  offset: 0, 0
+  index: -1
+OverTheGlass
+  rotate: false
+  xy: 1599, 374
+  size: 186, 170
+  orig: 186, 170
+  offset: 0, 0
+  index: -1
+Particle2
+  rotate: false
+  xy: 677, 287
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+Pupils
+  rotate: false
+  xy: 1599, 275
+  size: 142, 89
+  orig: 142, 89
+  offset: 0, 0
+  index: -1
+Rays
+  rotate: false
+  xy: 745, 10
+  size: 455, 455
+  orig: 455, 455
+  offset: 0, 0
+  index: -1
+Square
+  rotate: false
+  xy: 10, 369
+  size: 725, 644
+  orig: 725, 644
+  offset: 0, 0
+  index: -1

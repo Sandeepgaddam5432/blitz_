@@ -1,0 +1,76 @@
+
+AnimatedAvatar_WinterFestival.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 10, 52
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+Crystal_0
+  rotate: false
+  xy: 835, 108
+  size: 352, 394
+  orig: 352, 394
+  offset: 0, 0
+  index: -1
+Crystal_1
+  rotate: false
+  xy: 470, 105
+  size: 355, 397
+  orig: 355, 397
+  offset: 0, 0
+  index: -1
+Crystal_2
+  rotate: false
+  xy: 1197, 130
+  size: 335, 372
+  orig: 335, 372
+  offset: 0, 0
+  index: -1
+Crystal_3
+  rotate: true
+  xy: 470, 10
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 1197, 119
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Shine
+  rotate: false
+  xy: 1985, 410
+  size: 23, 92
+  orig: 23, 92
+  offset: 0, 0
+  index: -1
+SnowParticles
+  rotate: false
+  xy: 1780, 303
+  size: 195, 199
+  orig: 195, 199
+  offset: 0, 0
+  index: -1
+Star_Particle
+  rotate: false
+  xy: 1542, 150
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+Wind
+  rotate: false
+  xy: 1542, 276
+  size: 228, 226
+  orig: 228, 226
+  offset: 0, 0
+  index: -1

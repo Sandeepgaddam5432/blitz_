@@ -1,0 +1,300 @@
+
+Avatar_Anim_SeasonName_AvatarName.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 511, 747
+  size: 327, 264
+  orig: 327, 264
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 230, 47
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+BG_Cloud
+  rotate: false
+  xy: 10, 350
+  size: 441, 256
+  orig: 441, 256
+  offset: 0, 0
+  index: -1
+BackHair
+  rotate: true
+  xy: 1043, 674
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+BackStrap_00000
+  rotate: false
+  xy: 721, 656
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00001
+  rotate: true
+  xy: 797, 495
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00002
+  rotate: false
+  xy: 882, 674
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00003
+  rotate: true
+  xy: 888, 513
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00004
+  rotate: true
+  xy: 979, 513
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00005
+  rotate: false
+  xy: 1143, 678
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00006
+  rotate: true
+  xy: 1070, 513
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00007
+  rotate: true
+  xy: 1161, 517
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00008
+  rotate: true
+  xy: 1252, 517
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00009
+  rotate: false
+  xy: 1343, 616
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00010
+  rotate: false
+  xy: 1343, 525
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+BackStrap_00011
+  rotate: true
+  xy: 1504, 546
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+FX_Circle
+  rotate: true
+  xy: 1912, 849
+  size: 162, 89
+  orig: 162, 89
+  offset: 0, 0
+  index: -1
+Face_Glasses_L
+  rotate: true
+  xy: 817, 287
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+Face_Glasses_R
+  rotate: false
+  xy: 817, 204
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+Face_L
+  rotate: false
+  xy: 1137, 769
+  size: 237, 242
+  orig: 237, 242
+  offset: 0, 0
+  index: -1
+Face_R
+  rotate: false
+  xy: 299, 114
+  size: 172, 226
+  orig: 172, 226
+  offset: 0, 0
+  index: -1
+Face_Turban_L
+  rotate: false
+  xy: 10, 94
+  size: 279, 246
+  orig: 279, 246
+  offset: 0, 0
+  index: -1
+Face_Turban_R
+  rotate: false
+  xy: 848, 765
+  size: 279, 246
+  orig: 279, 246
+  offset: 0, 0
+  index: -1
+Face_Turban_Strap
+  rotate: false
+  xy: 1633, 877
+  size: 269, 134
+  orig: 269, 134
+  offset: 0, 0
+  index: -1
+Fist
+  rotate: false
+  xy: 1384, 791
+  size: 239, 220
+  orig: 239, 220
+  offset: 0, 0
+  index: -1
+ForeheadSymbol
+  rotate: false
+  xy: 797, 425
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+ForeheadSymbol_Particles
+  rotate: false
+  xy: 1853, 833
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Lightray_00000
+  rotate: false
+  xy: 10, 10
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00001
+  rotate: false
+  xy: 1633, 793
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00002
+  rotate: true
+  xy: 461, 396
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00003
+  rotate: true
+  xy: 545, 425
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00004
+  rotate: true
+  xy: 629, 425
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00005
+  rotate: false
+  xy: 1384, 707
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00006
+  rotate: true
+  xy: 481, 176
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00007
+  rotate: true
+  xy: 565, 205
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00008
+  rotate: true
+  xy: 649, 205
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00009
+  rotate: true
+  xy: 713, 425
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00010
+  rotate: true
+  xy: 733, 205
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+Lightray_00011
+  rotate: false
+  xy: 565, 121
+  size: 210, 74
+  orig: 210, 74
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 721, 645
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 10, 616
+  size: 491, 395
+  orig: 491, 395
+  offset: 0, 0
+  index: -1
+Wave
+  rotate: false
+  xy: 511, 645
+  size: 200, 92
+  orig: 200, 92
+  offset: 0, 0
+  index: -1

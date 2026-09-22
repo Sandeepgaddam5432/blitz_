@@ -1,0 +1,419 @@
+
+Avatar_OE_IndianMovies_01.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 10, 545
+  size: 469, 469
+  orig: 469, 469
+  offset: 0, 0
+  index: -1
+EyeBall_L
+  rotate: true
+  xy: 639, 121
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+EyeBall_R
+  rotate: false
+  xy: 1312, 646
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+EyeClosed_L_1
+  rotate: false
+  xy: 390, 56
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+EyeClosed_L_2
+  rotate: false
+  xy: 1249, 586
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+EyeClosed_R_1
+  rotate: false
+  xy: 1176, 638
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+EyeClosed_R_2
+  rotate: false
+  xy: 1176, 571
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+Frame 1
+  rotate: false
+  xy: 105, 37
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 10
+  rotate: false
+  xy: 786, 376
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 11
+  rotate: false
+  xy: 786, 295
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 12
+  rotate: true
+  xy: 912, 632
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 13
+  rotate: true
+  xy: 912, 530
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 14
+  rotate: false
+  xy: 888, 449
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 15
+  rotate: false
+  xy: 888, 368
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 16
+  rotate: false
+  xy: 888, 287
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 17
+  rotate: true
+  xy: 993, 660
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 18
+  rotate: true
+  xy: 993, 558
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 19
+  rotate: false
+  xy: 1074, 663
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 2
+  rotate: false
+  xy: 1084, 744
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 20
+  rotate: false
+  xy: 1074, 582
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 21
+  rotate: false
+  xy: 1562, 731
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 22
+  rotate: false
+  xy: 1664, 731
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 23
+  rotate: true
+  xy: 1766, 710
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 24
+  rotate: false
+  xy: 435, 123
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 25
+  rotate: false
+  xy: 537, 123
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 26
+  rotate: false
+  xy: 1262, 698
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 27
+  rotate: false
+  xy: 1364, 698
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 28
+  rotate: true
+  xy: 1466, 677
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 29
+  rotate: false
+  xy: 1547, 650
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 3
+  rotate: false
+  xy: 483, 204
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 30
+  rotate: false
+  xy: 1649, 650
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 31
+  rotate: false
+  xy: 1751, 629
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 4
+  rotate: false
+  xy: 585, 204
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 5
+  rotate: true
+  xy: 207, 16
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 6
+  rotate: false
+  xy: 288, 26
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 7
+  rotate: true
+  xy: 705, 411
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 8
+  rotate: true
+  xy: 705, 309
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Frame 9
+  rotate: false
+  xy: 786, 457
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+Glasses_Frame
+  rotate: true
+  xy: 758, 538
+  size: 186, 144
+  orig: 186, 144
+  offset: 0, 0
+  index: -1
+Glasses_Handle
+  rotate: false
+  xy: 1249, 637
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Glasses_Lens
+  rotate: false
+  xy: 1859, 877
+  size: 179, 137
+  orig: 179, 137
+  offset: 0, 0
+  index: -1
+Glasses_Shine
+  rotate: false
+  xy: 1859, 730
+  size: 179, 137
+  orig: 179, 137
+  offset: 0, 0
+  index: -1
+Glasses_Sparkle
+  rotate: false
+  xy: 1186, 749
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Head_Center
+  rotate: false
+  xy: 10, 118
+  size: 282, 417
+  orig: 282, 417
+  offset: 0, 0
+  index: -1
+Head_Eyebrown
+  rotate: true
+  xy: 10, 10
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+Head_Left
+  rotate: true
+  xy: 1562, 812
+  size: 202, 287
+  orig: 202, 287
+  offset: 0, 0
+  index: -1
+Head_Neck
+  rotate: false
+  xy: 483, 285
+  size: 212, 218
+  orig: 212, 218
+  offset: 0, 0
+  index: -1
+Head_Right
+  rotate: true
+  xy: 862, 825
+  size: 189, 392
+  orig: 189, 392
+  offset: 0, 0
+  index: -1
+Head_Right_Far
+  rotate: true
+  xy: 1264, 779
+  size: 235, 288
+  orig: 235, 288
+  offset: 0, 0
+  index: -1
+Head_Shin
+  rotate: true
+  xy: 862, 734
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+JuiceGlass
+  rotate: false
+  xy: 489, 513
+  size: 259, 211
+  orig: 259, 211
+  offset: 0, 0
+  index: -1
+JuiceGlass_LiquidTop
+  rotate: false
+  xy: 961, 762
+  size: 113, 53
+  orig: 113, 53
+  offset: 0, 0
+  index: -1
+JuiceGlass_Shine
+  rotate: false
+  xy: 302, 107
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 288, 107
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 1186, 705
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+Pupil_L
+  rotate: false
+  xy: 961, 734
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Pupil_R
+  rotate: false
+  xy: 1367, 667
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Shoulder
+  rotate: true
+  xy: 302, 223
+  size: 312, 171
+  orig: 312, 171
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 489, 734
+  size: 363, 280
+  orig: 363, 280
+  offset: 0, 0
+  index: -1

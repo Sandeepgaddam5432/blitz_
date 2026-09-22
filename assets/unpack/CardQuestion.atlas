@@ -1,0 +1,97 @@
+
+CardQuestion.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_1
+  rotate: true
+  xy: 692, 133
+  size: 365, 561
+  orig: 365, 561
+  offset: 0, 0
+  index: -1
+Glow_2
+  rotate: true
+  xy: 1263, 251
+  size: 247, 367
+  orig: 406, 672
+  offset: 80, 155
+  index: -1
+QuestionMark_Icon
+  rotate: true
+  xy: 10, 92
+  size: 406, 672
+  orig: 406, 672
+  offset: 0, 0
+  index: -1
+Shine/Shine_02
+  rotate: false
+  xy: 1964, 426
+  size: 71, 72
+  orig: 135, 223
+  offset: 6, 140
+  index: -1
+Shine/Shine_03
+  rotate: false
+  xy: 10, 10
+  size: 94, 72
+  orig: 135, 223
+  offset: 6, 140
+  index: -1
+Shine/Shine_04
+  rotate: false
+  xy: 1730, 199
+  size: 111, 119
+  orig: 135, 223
+  offset: 6, 93
+  index: -1
+Shine/Shine_05
+  rotate: false
+  xy: 1640, 340
+  size: 121, 158
+  orig: 135, 223
+  offset: 7, 54
+  index: -1
+Shine/Shine_06
+  rotate: true
+  xy: 1263, 134
+  size: 107, 185
+  orig: 135, 223
+  offset: 22, 26
+  index: -1
+Shine/Shine_07
+  rotate: true
+  xy: 1771, 418
+  size: 80, 183
+  orig: 135, 223
+  offset: 49, 24
+  index: -1
+Shine/Shine_08
+  rotate: true
+  xy: 1458, 161
+  size: 80, 172
+  orig: 135, 223
+  offset: 49, 24
+  index: -1
+Shine/Shine_09
+  rotate: false
+  xy: 1640, 173
+  size: 80, 157
+  orig: 135, 223
+  offset: 49, 24
+  index: -1
+Shine/Shine_10
+  rotate: true
+  xy: 1771, 328
+  size: 80, 136
+  orig: 135, 223
+  offset: 49, 24
+  index: -1
+Sparkle
+  rotate: false
+  xy: 1851, 233
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,99 @@
+Avatar_OE_MonsterHunting_Animated.png
+size:2048,1024
+filter:Linear,Linear
+BG
+bounds:10,511,488,488
+Body_1
+bounds:1040,839,195,160
+Body_2
+bounds:1245,833,166,172
+rotate:90
+Foreground_L
+bounds:658,462,110,115
+Foreground_R
+bounds:1427,859,124,140
+HeadBack
+bounds:10,133,292,168
+Head_1
+bounds:508,587,241,210
+Head_2
+bounds:508,807,307,192
+Head_3
+bounds:10,311,330,190
+Leg_A
+bounds:825,799,200,205
+rotate:90
+Leg_B
+bounds:10,21,102,279
+rotate:90
+LimitPixel
+bounds:10,10,1,1
+Nose
+bounds:1340,711,104,112
+Shine
+bounds:414,176,63,63
+Smoke/Layer 1
+bounds:1561,907,140,92
+Smoke/Layer 10
+bounds:1711,907,140,92
+Smoke/Layer 11
+bounds:1861,907,140,92
+Smoke/Layer 12
+bounds:508,485,140,92
+Smoke/Layer 13
+bounds:496,383,140,92
+Smoke/Layer 14
+bounds:496,281,140,92
+Smoke/Layer 15
+bounds:646,312,140,92
+rotate:90
+Smoke/Layer 16
+bounds:1561,805,140,92
+Smoke/Layer 17
+bounds:1711,805,140,92
+Smoke/Layer 18
+bounds:1861,805,140,92
+Smoke/Layer 19
+bounds:1040,737,140,92
+Smoke/Layer 2
+bounds:1190,731,140,92
+Smoke/Layer 20
+bounds:1454,709,140,92
+rotate:90
+Smoke/Layer 21
+bounds:1556,703,140,92
+Smoke/Layer 3
+bounds:1706,703,140,92
+Smoke/Layer 4
+bounds:1856,703,140,92
+Smoke/Layer 5
+bounds:312,161,140,92
+rotate:90
+Smoke/Layer 6
+bounds:759,697,140,92
+Smoke/Layer 7
+bounds:759,595,140,92
+Smoke/Layer 8
+bounds:909,649,140,92
+rotate:90
+Smoke/Layer 9
+bounds:778,445,140,92
+rotate:90
+Tail
+bounds:909,586,53,99
+rotate:90
+Teeth_1A
+bounds:1011,649,108,78
+Teeth_1B
+bounds:350,317,136,184
+Teeth_2
+bounds:1018,594,45,85
+rotate:90
+Teeth_3A
+bounds:1172,663,58,64
+rotate:90
+Teeth_3B
+bounds:414,249,58,72
+rotate:90
+Teeth_4
+bounds:1129,663,33,64

@@ -1,0 +1,53 @@
+AlbumColletion_Anouncement_Back.png
+size:2021,1160
+filter:Linear,Linear
+Card_Back
+bounds:10,265,885,1203
+rotate:90
+FX_Smoke/Frame 1
+bounds:1223,292,64,57
+FX_Smoke/Frame 10
+bounds:864,81,64,57
+FX_Smoke/Frame 11
+bounds:1297,292,64,57
+FX_Smoke/Frame 12
+bounds:864,14,64,57
+FX_Smoke/Frame 13
+bounds:938,81,64,57
+FX_Smoke/Frame 14
+bounds:1371,292,64,57
+FX_Smoke/Frame 15
+bounds:938,14,64,57
+FX_Smoke/Frame 16
+bounds:1012,81,64,57
+FX_Smoke/Frame 17
+bounds:1445,292,64,57
+FX_Smoke/Frame 18
+bounds:1012,14,64,57
+FX_Smoke/Frame 19
+bounds:1086,81,64,57
+FX_Smoke/Frame 2
+bounds:1519,292,64,57
+FX_Smoke/Frame 20
+bounds:1086,14,64,57
+FX_Smoke/Frame 3
+bounds:1160,81,64,57
+FX_Smoke/Frame 4
+bounds:1593,292,64,57
+FX_Smoke/Frame 5
+bounds:1160,14,64,57
+FX_Smoke/Frame 6
+bounds:1234,81,64,57
+FX_Smoke/Frame 7
+bounds:1667,292,64,57
+FX_Smoke/Frame 8
+bounds:1234,14,64,57
+FX_Smoke/Frame 9
+bounds:1741,292,64,57
+Glow
+bounds:1223,359,788,791
+LineGlow
+bounds:10,148,1322,107
+Ray
+bounds:10,10,128,844
+rotate:90

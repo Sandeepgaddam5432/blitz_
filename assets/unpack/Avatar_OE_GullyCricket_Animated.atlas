@@ -1,0 +1,114 @@
+Avatar_OE_GullyCricket_Animated.png
+size:2048,2048
+filter:Linear,Linear
+1_Arm_LowerArm
+bounds:1660,497,116,113
+1_Body
+bounds:10,1565,487,471
+1_Braceltt
+bounds:724,1165,101,98
+1_Hand
+bounds:1660,620,196,253
+1_Head
+bounds:1660,1131,237,245
+1_Sleeve
+bounds:1866,689,184,172
+rotate:90
+2_Arm
+bounds:837,1233,143,153
+rotate:90
+2_Forearm
+bounds:493,1104,159,221
+rotate:90
+2_Hand
+bounds:837,1471,122,91
+rotate:90
+2_Head
+bounds:1660,883,238,237
+rotate:90
+2_SunGlasses_Shadow
+bounds:10,10,147,72
+2_Torso
+bounds:507,1603,432,433
+BG
+bounds:10,1082,473,473
+Frame 1
+bounds:10,752,320,320
+Frame 10
+bounds:949,1716,320,320
+Frame 11
+bounds:10,422,320,320
+Frame 12
+bounds:1279,1716,320,320
+Frame 13
+bounds:10,92,320,320
+Frame 14
+bounds:1609,1716,320,320
+Frame 15
+bounds:340,752,320,320
+Frame 16
+bounds:340,422,320,320
+Frame 17
+bounds:340,92,320,320
+Frame 18
+bounds:949,1386,320,320
+Frame 19
+bounds:1279,1386,320,320
+Frame 2
+bounds:1609,1386,320,320
+Frame 20
+bounds:507,1273,320,320
+Frame 21
+bounds:670,774,320,320
+Frame 22
+bounds:670,444,320,320
+Frame 23
+bounds:670,114,320,320
+Frame 24
+bounds:1000,1056,320,320
+Frame 3
+bounds:1000,726,320,320
+Frame 4
+bounds:1330,1056,320,320
+Frame 5
+bounds:1000,396,320,320
+Frame 6
+bounds:1330,726,320,320
+Frame 7
+bounds:1330,396,320,320
+Frame 8
+bounds:1000,66,320,320
+Frame 9
+bounds:1330,66,320,320
+LimitPixel
+bounds:938,1592,1,1
+SunGlasses
+bounds:1939,1889,147,72
+rotate:90
+SunGlasses_Shine_1
+bounds:1907,1320,56,21
+rotate:90
+SunGlasses_Shine_10
+bounds:1866,658,56,21
+SunGlasses_Shine_11
+bounds:1786,589,56,21
+SunGlasses_Shine_2
+bounds:167,61,56,21
+SunGlasses_Shine_3
+bounds:1939,1858,56,21
+SunGlasses_Shine_4
+bounds:837,1440,56,21
+SunGlasses_Shine_5
+bounds:724,1134,56,21
+SunGlasses_Shine_6
+bounds:1660,389,56,21
+SunGlasses_Shine_7
+bounds:1737,431,56,21
+rotate:90
+SunGlasses_Shine_8
+bounds:1907,1254,56,21
+rotate:90
+SunGlasses_Shine_9
+bounds:1866,627,56,21
+SunGlasses_Sparkle
+bounds:1660,420,67,67

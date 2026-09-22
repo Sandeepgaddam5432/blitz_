@@ -1,0 +1,118 @@
+
+Avatar_Anim_SantasWorkshop_CookieMan.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 870, 232
+  size: 223, 244
+  orig: 223, 244
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 1318, 319
+  size: 249, 157
+  orig: 249, 157
+  offset: 0, 0
+  index: -1
+Arm_R_Upper
+  rotate: false
+  xy: 1797, 319
+  size: 163, 157
+  orig: 163, 157
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 248, 27
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+BG_SnowParticles
+  rotate: false
+  xy: 782, 77
+  size: 136, 144
+  orig: 136, 144
+  offset: 0, 0
+  index: -1
+BellyButtons
+  rotate: false
+  xy: 1970, 384
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+CandyCane
+  rotate: false
+  xy: 10, 21
+  size: 228, 455
+  orig: 228, 455
+  offset: 0, 0
+  index: -1
+CandyCane_Drop
+  rotate: true
+  xy: 1318, 277
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 468, 50
+  size: 187, 131
+  orig: 187, 131
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 609, 55
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 610, 231
+  size: 245, 250
+  orig: 245, 250
+  offset: 0, 0
+  index: -1
+Lace
+  rotate: false
+  xy: 1577, 332
+  size: 210, 144
+  orig: 210, 144
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 10, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 928, 123
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+SunLight
+  rotate: false
+  xy: 1103, 271
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 248, 247
+  size: 352, 229
+  orig: 352, 229
+  offset: 0, 0
+  index: -1

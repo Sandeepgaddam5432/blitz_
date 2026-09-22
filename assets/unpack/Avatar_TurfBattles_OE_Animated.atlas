@@ -1,0 +1,159 @@
+Avatar_TurfBattles_OE_Animated.png
+size:2048,1024
+filter:Linear,Linear
+Arm_L_LowerArm
+bounds:1009,724,187,259
+Arm_L_UpperArm
+bounds:1206,763,184,220
+BG
+bounds:10,468,513,515
+FX_Explosion/Frame 1
+bounds:533,465,122,195
+rotate:90
+FX_Explosion/Frame 10
+bounds:1009,592,122,195
+rotate:90
+FX_Explosion/Frame 11
+bounds:498,260,122,195
+FX_Explosion/Frame 12
+bounds:630,260,122,195
+FX_Explosion/Frame 13
+bounds:1214,631,122,195
+rotate:90
+FX_Explosion/Frame 14
+bounds:1419,687,122,195
+rotate:90
+FX_Explosion/Frame 15
+bounds:1419,555,122,195
+rotate:90
+FX_Explosion/Frame 16
+bounds:1214,499,122,195
+rotate:90
+FX_Explosion/Frame 17
+bounds:1419,423,122,195
+rotate:90
+FX_Explosion/Frame 18
+bounds:1624,614,122,195
+FX_Explosion/Frame 19
+bounds:1624,409,122,195
+FX_Explosion/Frame 2
+bounds:1756,635,122,195
+FX_Explosion/Frame 20
+bounds:1756,430,122,195
+FX_Explosion/Frame 21
+bounds:1888,655,122,195
+FX_Explosion/Frame 22
+bounds:1888,450,122,195
+FX_Explosion/Frame 23
+bounds:766,477,122,195
+rotate:90
+FX_Explosion/Frame 24
+bounds:762,272,122,195
+FX_Explosion/Frame 25
+bounds:971,460,122,195
+rotate:90
+FX_Explosion/Frame 26
+bounds:894,328,122,195
+rotate:90
+FX_Explosion/Frame 27
+bounds:894,196,122,195
+rotate:90
+FX_Explosion/Frame 28
+bounds:1099,255,122,195
+FX_Explosion/Frame 3
+bounds:1231,294,122,195
+FX_Explosion/Frame 4
+bounds:1363,291,122,195
+rotate:90
+FX_Explosion/Frame 5
+bounds:1568,277,122,195
+rotate:90
+FX_Explosion/Frame 6
+bounds:1773,225,122,195
+FX_Explosion/Frame 7
+bounds:1905,245,122,195
+FX_Explosion/Frame 8
+bounds:762,67,122,195
+FX_Explosion/Frame 9
+bounds:894,64,122,195
+rotate:90
+FX_Smoke/Frame 1
+bounds:177,10,64,57
+FX_Smoke/Frame 10
+bounds:251,10,64,57
+FX_Smoke/Frame 11
+bounds:325,10,64,57
+FX_Smoke/Frame 12
+bounds:399,15,64,57
+rotate:90
+FX_Smoke/Frame 13
+bounds:1231,227,64,57
+FX_Smoke/Frame 14
+bounds:1229,160,64,57
+FX_Smoke/Frame 15
+bounds:1229,93,64,57
+FX_Smoke/Frame 16
+bounds:1363,224,64,57
+FX_Smoke/Frame 17
+bounds:1437,224,64,57
+FX_Smoke/Frame 18
+bounds:1303,146,64,57
+rotate:90
+FX_Smoke/Frame 19
+bounds:1370,157,64,57
+FX_Smoke/Frame 2
+bounds:1444,157,64,57
+FX_Smoke/Frame 20
+bounds:1303,79,64,57
+FX_Smoke/Frame 3
+bounds:1377,90,64,57
+FX_Smoke/Frame 4
+bounds:1451,90,64,57
+FX_Smoke/Frame 5
+bounds:1229,26,64,57
+FX_Smoke/Frame 6
+bounds:1303,12,64,57
+FX_Smoke/Frame 7
+bounds:1377,23,64,57
+FX_Smoke/Frame 8
+bounds:1451,23,64,57
+FX_Smoke/Frame 9
+bounds:466,19,64,57
+rotate:90
+Hand_L_Fingers_Bottom
+bounds:397,89,101,58
+rotate:90
+Hand_L_Fingers_Top
+bounds:1883,860,147,123
+Hand_L_Indicator_1
+bounds:1305,220,48,64
+Hand_L_Indicator_A
+bounds:94,20,47,73
+rotate:90
+Hand_L_Indicator_B
+bounds:465,93,52,59
+rotate:90
+Hand_L_Palm
+bounds:1099,74,171,120
+rotate:90
+Hand_L_Thumb
+bounds:10,12,74,55
+Hand_R
+bounds:1649,840,143,224
+rotate:90
+Head_Center
+bounds:498,155,95,218
+rotate:90
+Head_L
+bounds:1400,819,164,239
+rotate:90
+Head_R
+bounds:397,200,91,258
+LimitPixel
+bounds:1400,808,1,1
+Torso_Chest
+bounds:533,597,223,386
+Torso_L
+bounds:766,609,233,374
+Torso_R
+bounds:10,77,377,381

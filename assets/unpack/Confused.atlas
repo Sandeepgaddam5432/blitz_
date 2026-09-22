@@ -1,0 +1,48 @@
+
+Confused.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 10, 10
+  size: 195, 224
+  orig: 195, 224
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 215, 96
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 215, 170
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 337, 212
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 288, 188
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+eye_04
+  rotate: false
+  xy: 215, 77
+  size: 54, 9
+  orig: 54, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Avatar_CrimsonMoon_Witch.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 637, 215
+  size: 212, 165
+  orig: 212, 165
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 10, 394
+  size: 621, 620
+  orig: 621, 620
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 994, 475
+  size: 513, 305
+  orig: 513, 305
+  offset: 0, 0
+  index: -1
+Cloth Back
+  rotate: false
+  xy: 1647, 624
+  size: 221, 202
+  orig: 221, 202
+  offset: 0, 0
+  index: -1
+Cloth_Front
+  rotate: false
+  xy: 1627, 836
+  size: 283, 178
+  orig: 283, 178
+  offset: 0, 0
+  index: -1
+Eyes Glow
+  rotate: false
+  xy: 994, 790
+  size: 623, 224
+  orig: 623, 224
+  offset: 0, 0
+  index: -1
+Finger_1_A
+  rotate: false
+  xy: 905, 378
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+Finger_1_B
+  rotate: true
+  xy: 1093, 409
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Finger_2_A
+  rotate: true
+  xy: 975, 376
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+Finger_2_B
+  rotate: false
+  xy: 1198, 421
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+Finger_3
+  rotate: false
+  xy: 551, 33
+  size: 105, 127
+  orig: 105, 127
+  offset: 0, 0
+  index: -1
+Finger_4
+  rotate: false
+  xy: 1920, 871
+  size: 117, 143
+  orig: 117, 143
+  offset: 0, 0
+  index: -1
+Hair_Strand_L
+  rotate: false
+  xy: 1517, 541
+  size: 120, 239
+  orig: 120, 239
+  offset: 0, 0
+  index: -1
+Hair_Strand_R
+  rotate: true
+  xy: 641, 390
+  size: 107, 254
+  orig: 107, 254
+  offset: 0, 0
+  index: -1
+Hair_Strand_center
+  rotate: false
+  xy: 551, 170
+  size: 76, 214
+  orig: 76, 214
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 1647, 481
+  size: 199, 133
+  orig: 199, 133
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 641, 507
+  size: 343, 507
+  orig: 343, 507
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 10, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+MoonLight
+  rotate: true
+  xy: 10, 21
+  size: 363, 531
+  orig: 363, 531
+  offset: 0, 0
+  index: -1
+Thumb
+  rotate: false
+  xy: 1517, 448
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+CarromPass_TagAnimation.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_TagShine_1
+  rotate: false
+  xy: 10, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_10
+  rotate: false
+  xy: 742, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_11
+  rotate: false
+  xy: 925, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_12
+  rotate: false
+  xy: 925, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_13
+  rotate: false
+  xy: 1108, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_14
+  rotate: false
+  xy: 1108, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_15
+  rotate: false
+  xy: 1291, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_2
+  rotate: false
+  xy: 10, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_3
+  rotate: false
+  xy: 193, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_4
+  rotate: false
+  xy: 193, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_5
+  rotate: false
+  xy: 376, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_6
+  rotate: false
+  xy: 376, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_7
+  rotate: false
+  xy: 559, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_8
+  rotate: false
+  xy: 559, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+FX_TagShine_9
+  rotate: false
+  xy: 742, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+Tag
+  rotate: false
+  xy: 1474, 28
+  size: 149, 200
+  orig: 149, 200
+  offset: 0, 0
+  index: -1
+Tag_Chain
+  rotate: false
+  xy: 1657, 346
+  size: 41, 110
+  orig: 41, 110
+  offset: 0, 0
+  index: -1
+Tag_Shadow
+  rotate: false
+  xy: 1291, 10
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+Tag_Thickness
+  rotate: false
+  xy: 1474, 238
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1

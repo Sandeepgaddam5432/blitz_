@@ -1,0 +1,286 @@
+
+Avatar_OE_IndianMafiaVillains.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 10, 504
+  size: 488, 489
+  orig: 488, 489
+  offset: 0, 0
+  index: -1
+Eyeballs
+  rotate: true
+  xy: 689, 333
+  size: 129, 43
+  orig: 129, 43
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 1883, 829
+  size: 96, 31
+  orig: 96, 31
+  offset: 0, 0
+  index: -1
+FX_Frame_1
+  rotate: true
+  xy: 1680, 729
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+FX_Frame_2
+  rotate: true
+  xy: 762, 614
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+FX_Frame_3
+  rotate: true
+  xy: 886, 614
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+FX_Frame_4
+  rotate: false
+  xy: 752, 490
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+FX_Frame_5
+  rotate: false
+  xy: 846, 490
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+FX_Frame_6
+  rotate: false
+  xy: 940, 490
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+FX_Frame_7
+  rotate: true
+  xy: 480, 95
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+FX_Frame_8
+  rotate: false
+  xy: 1804, 699
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 256, 64
+  size: 157, 57
+  orig: 157, 57
+  offset: 0, 0
+  index: -1
+Glasses_Handles_L
+  rotate: false
+  xy: 620, 204
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+Glasses_Handles_R
+  rotate: true
+  xy: 1540, 701
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_1
+  rotate: true
+  xy: 223, 10
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_2
+  rotate: false
+  xy: 689, 310
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_3
+  rotate: false
+  xy: 423, 108
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_4
+  rotate: false
+  xy: 1010, 627
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_5
+  rotate: false
+  xy: 1598, 707
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_6
+  rotate: false
+  xy: 689, 287
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_7
+  rotate: false
+  xy: 423, 85
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_8
+  rotate: false
+  xy: 423, 62
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Glasses_LensShine_9
+  rotate: false
+  xy: 1989, 847
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 1079, 823
+  size: 258, 170
+  orig: 258, 170
+  offset: 0, 0
+  index: -1
+Hand_Fingers_1
+  rotate: false
+  xy: 1347, 823
+  size: 258, 170
+  orig: 258, 170
+  offset: 0, 0
+  index: -1
+Hand_Fingers_2
+  rotate: false
+  xy: 1615, 823
+  size: 258, 170
+  orig: 258, 170
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 1316, 693
+  size: 214, 120
+  orig: 214, 120
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 256, 131
+  size: 214, 363
+  orig: 214, 363
+  offset: 0, 0
+  index: -1
+Head_L
+  rotate: false
+  xy: 508, 642
+  size: 244, 351
+  orig: 244, 351
+  offset: 0, 0
+  index: -1
+Head_L_Bright
+  rotate: true
+  xy: 10, 10
+  size: 37, 203
+  orig: 37, 203
+  offset: 0, 0
+  index: -1
+Head_R
+  rotate: false
+  xy: 10, 57
+  size: 236, 437
+  orig: 236, 437
+  offset: 0, 0
+  index: -1
+Head_R_Bright
+  rotate: true
+  xy: 1079, 707
+  size: 106, 227
+  orig: 106, 227
+  offset: 0, 0
+  index: -1
+Jaw_Back
+  rotate: false
+  xy: 480, 189
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+Jaw_Front
+  rotate: false
+  xy: 1540, 730
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 1068, 697
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Shine
+  rotate: false
+  xy: 1010, 650
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Torso_Back
+  rotate: false
+  xy: 508, 472
+  size: 234, 160
+  orig: 234, 160
+  offset: 0, 0
+  index: -1
+Torso_Bright_L
+  rotate: false
+  xy: 1883, 870
+  size: 140, 123
+  orig: 140, 123
+  offset: 0, 0
+  index: -1
+Torso_Bright_R
+  rotate: false
+  xy: 480, 282
+  size: 199, 180
+  orig: 199, 180
+  offset: 0, 0
+  index: -1
+Torso_Front
+  rotate: false
+  xy: 762, 708
+  size: 307, 285
+  orig: 307, 285
+  offset: 0, 0
+  index: -1

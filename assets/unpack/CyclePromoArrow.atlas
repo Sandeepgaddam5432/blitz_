@@ -1,0 +1,20 @@
+
+CyclePromoArrow.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NavBar_Arrow
+  rotate: true
+  xy: 10, 10
+  size: 155, 264
+  orig: 155, 264
+  offset: 0, 0
+  index: -1
+NavBar_Glow
+  rotate: false
+  xy: 10, 175
+  size: 283, 280
+  orig: 283, 280
+  offset: 0, 0
+  index: -1

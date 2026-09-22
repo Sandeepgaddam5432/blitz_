@@ -1,0 +1,41 @@
+
+AnimatedFrame_FestivalOfLights.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flame
+  rotate: false
+  xy: 10, 10
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Flame_Glow
+  rotate: false
+  xy: 10, 55
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Flame_OuterBody
+  rotate: false
+  xy: 658, 744
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 10, 179
+  size: 638, 638
+  orig: 638, 638
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 111, 168
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

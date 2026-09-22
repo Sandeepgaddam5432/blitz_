@@ -1,0 +1,104 @@
+
+Animated_Frame_FestivalOfLights_2023.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Corner
+  rotate: true
+  xy: 862, 83
+  size: 154, 217
+  orig: 154, 217
+  offset: 0, 0
+  index: -1
+Corner_Glow
+  rotate: true
+  xy: 1295, 122
+  size: 115, 159
+  orig: 115, 159
+  offset: 0, 0
+  index: -1
+Flame
+  rotate: false
+  xy: 1669, 164
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+Flame_Glow
+  rotate: true
+  xy: 1464, 136
+  size: 101, 128
+  orig: 101, 128
+  offset: 0, 0
+  index: -1
+Frame_Bottom
+  rotate: false
+  xy: 436, 111
+  size: 416, 126
+  orig: 416, 126
+  offset: 0, 0
+  index: -1
+Frame_Side
+  rotate: true
+  xy: 10, 21
+  size: 45, 273
+  orig: 45, 273
+  offset: 0, 0
+  index: -1
+Frame_Top
+  rotate: false
+  xy: 10, 76
+  size: 416, 161
+  orig: 416, 161
+  offset: 0, 0
+  index: -1
+Gem_Glow
+  rotate: false
+  xy: 1602, 160
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Kandil
+  rotate: true
+  xy: 1089, 106
+  size: 131, 196
+  orig: 131, 196
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 10, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Red_1
+  rotate: true
+  xy: 436, 83
+  size: 18, 70
+  orig: 18, 70
+  offset: 0, 0
+  index: -1
+Red_2
+  rotate: true
+  xy: 1089, 84
+  size: 12, 71
+  orig: 12, 71
+  offset: 0, 0
+  index: -1
+Yellow_1
+  rotate: false
+  xy: 1728, 170
+  size: 14, 67
+  orig: 14, 67
+  offset: 0, 0
+  index: -1
+Yellow_2
+  rotate: true
+  xy: 293, 54
+  size: 12, 71
+  orig: 12, 71
+  offset: 0, 0
+  index: -1

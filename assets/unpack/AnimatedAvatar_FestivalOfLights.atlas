@@ -1,0 +1,62 @@
+
+AnimatedAvatar_FestivalOfLights.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 10, 43
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+Flame
+  rotate: true
+  xy: 10, 10
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Flame_Glow
+  rotate: false
+  xy: 470, 144
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Flame_OuterBody
+  rotate: false
+  xy: 940, 420
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+Flame_Particle
+  rotate: false
+  xy: 470, 109
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 571, 257
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Shine
+  rotate: false
+  xy: 470, 268
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Vignette
+  rotate: false
+  xy: 705, 268
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1

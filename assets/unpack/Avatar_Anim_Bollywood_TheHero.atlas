@@ -1,0 +1,188 @@
+
+Avatar_Anim_Bollywood_TheHero.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 10, 542
+  size: 466, 466
+  orig: 466, 466
+  offset: 0, 0
+  index: -1
+Bear_Bottom
+  rotate: false
+  xy: 1858, 883
+  size: 167, 125
+  orig: 167, 125
+  offset: 0, 0
+  index: -1
+Beard_Sides
+  rotate: false
+  xy: 1690, 812
+  size: 158, 196
+  orig: 158, 196
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 486, 707
+  size: 592, 301
+  orig: 592, 301
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 1406, 789
+  size: 219, 274
+  orig: 219, 274
+  offset: 0, 0
+  index: -1
+EyeBrown
+  rotate: true
+  xy: 1025, 613
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 505, 390
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 486, 620
+  size: 226, 77
+  orig: 226, 77
+  offset: 0, 0
+  index: -1
+Glasses_Holder
+  rotate: true
+  xy: 10, 10
+  size: 11, 38
+  orig: 11, 38
+  offset: 0, 0
+  index: -1
+HairStrand
+  rotate: true
+  xy: 207, 37
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: true
+  xy: 358, 345
+  size: 187, 79
+  orig: 187, 79
+  offset: 0, 0
+  index: -1
+Hand_Finger_1
+  rotate: true
+  xy: 447, 391
+  size: 141, 48
+  orig: 141, 48
+  offset: 0, 0
+  index: -1
+Hand_Finger_2
+  rotate: false
+  xy: 486, 565
+  size: 173, 45
+  orig: 173, 45
+  offset: 0, 0
+  index: -1
+Hand_Finger_3
+  rotate: true
+  xy: 358, 171
+  size: 164, 100
+  orig: 164, 100
+  offset: 0, 0
+  index: -1
+Hand_Finger_4
+  rotate: false
+  xy: 1858, 752
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 10, 31
+  size: 187, 83
+  orig: 187, 83
+  offset: 0, 0
+  index: -1
+Hand_Thumb
+  rotate: false
+  xy: 1088, 712
+  size: 192, 69
+  orig: 192, 69
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 10, 124
+  size: 338, 408
+  orig: 338, 408
+  offset: 0, 0
+  index: -1
+Lip_Bottom
+  rotate: false
+  xy: 879, 585
+  size: 136, 112
+  orig: 136, 112
+  offset: 0, 0
+  index: -1
+Lip_Frown
+  rotate: false
+  xy: 505, 443
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+Lip_Top
+  rotate: false
+  xy: 722, 610
+  size: 147, 87
+  orig: 147, 87
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 1089, 626
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+Nose_Tip
+  rotate: false
+  xy: 358, 121
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+Shine
+  rotate: false
+  xy: 1168, 631
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Sleeve
+  rotate: false
+  xy: 1088, 791
+  size: 308, 217
+  orig: 308, 217
+  offset: 0, 0
+  index: -1
+Wrist
+  rotate: true
+  xy: 1290, 710
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
