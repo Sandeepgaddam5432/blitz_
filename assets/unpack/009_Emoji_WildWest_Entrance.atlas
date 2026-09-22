@@ -1,0 +1,104 @@
+
+009_Emoji_WildWest_Entrance.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 250, 31
+  size: 195, 224
+  orig: 195, 224
+  offset: 0, 0
+  index: -1
+Door
+  rotate: true
+  xy: 1107, 130
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+Door2
+  rotate: true
+  xy: 1224, 130
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+DoorPortion
+  rotate: false
+  xy: 1590, 183
+  size: 96, 43
+  orig: 96, 43
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 1509, 157
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 484, 52
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: false
+  xy: 1341, 145
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Hand3
+  rotate: false
+  xy: 1432, 150
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+Hat1
+  rotate: false
+  xy: 702, 100
+  size: 216, 126
+  orig: 216, 126
+  offset: 0, 0
+  index: -1
+Hat2
+  rotate: false
+  xy: 484, 82
+  size: 208, 144
+  orig: 208, 144
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1696, 180
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Pupil
+  rotate: false
+  xy: 1792, 200
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: false
+  xy: 928, 131
+  size: 169, 95
+  orig: 169, 95
+  offset: 0, 0
+  index: -1
+Slam
+  rotate: false
+  xy: 10, 10
+  size: 230, 216
+  orig: 230, 216
+  offset: 0, 0
+  index: -1

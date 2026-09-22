@@ -1,0 +1,139 @@
+
+###-Emote_LeaguesSeason_MCap.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BasHandThumb
+  rotate: true
+  xy: 744, 152
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+Bat
+  rotate: false
+  xy: 235, 120
+  size: 239, 113
+  orig: 239, 113
+  offset: 0, 0
+  index: -1
+BlueEye
+  rotate: false
+  xy: 808, 113
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+BottomHat
+  rotate: false
+  xy: 484, 122
+  size: 146, 56
+  orig: 146, 56
+  offset: 0, 0
+  index: -1
+BottomHat2
+  rotate: false
+  xy: 653, 206
+  size: 159, 27
+  orig: 159, 27
+  offset: 0, 0
+  index: -1
+BottomHat3
+  rotate: false
+  xy: 484, 188
+  size: 159, 45
+  orig: 159, 45
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 640, 102
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Finger2
+  rotate: true
+  xy: 708, 119
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Finger3
+  rotate: true
+  xy: 975, 191
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Finger4
+  rotate: false
+  xy: 962, 152
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 406, 40
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 10, 10
+  size: 215, 223
+  orig: 215, 223
+  offset: 0, 0
+  index: -1
+LBrow
+  rotate: false
+  xy: 817, 148
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 653, 166
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+MouthCorner
+  rotate: false
+  xy: 406, 23
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+RBrow
+  rotate: false
+  xy: 890, 139
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+SideBottom
+  rotate: false
+  xy: 822, 194
+  size: 143, 39
+  orig: 143, 39
+  offset: 0, 0
+  index: -1
+TopHat
+  rotate: false
+  xy: 235, 19
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Wink
+  rotate: false
+  xy: 744, 114
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1

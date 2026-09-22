@@ -1,0 +1,146 @@
+
+011_Emoji_HighScore_OE_Digital.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_FX
+  rotate: false
+  xy: 780, 129
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+BG_FX_1
+  rotate: false
+  xy: 250, 28
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+BG_FX_2
+  rotate: false
+  xy: 698, 131
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+BG_FX_3
+  rotate: false
+  xy: 858, 144
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+BG_FX_4
+  rotate: false
+  xy: 858, 83
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+DashEffect
+  rotate: false
+  xy: 527, 155
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: true
+  xy: 940, 139
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+Eyebrown
+  rotate: false
+  xy: 525, 122
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Glasses_1
+  rotate: false
+  xy: 350, 165
+  size: 167, 81
+  orig: 167, 81
+  offset: 0, 0
+  index: -1
+Glasses_2
+  rotate: false
+  xy: 350, 95
+  size: 165, 60
+  orig: 165, 60
+  offset: 0, 0
+  index: -1
+Glasses_3
+  rotate: false
+  xy: 527, 175
+  size: 161, 71
+  orig: 161, 71
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 940, 80
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Hand_3
+  rotate: false
+  xy: 183, 10
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 183, 89
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+Head_Backlight
+  rotate: false
+  xy: 10, 83
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 844, 205
+  size: 120, 41
+  orig: 120, 41
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 698, 192
+  size: 136, 54
+  orig: 136, 54
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 10, 13
+  size: 136, 60
+  orig: 136, 60
+  offset: 0, 0
+  index: -1
+Pixel
+  rotate: true
+  xy: 568, 122
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 974, 207
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

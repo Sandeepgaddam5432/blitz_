@@ -1,0 +1,90 @@
+
+008_Emoji_WildWest_Horseshoe.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 250, 51
+  size: 195, 224
+  orig: 195, 224
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 702, 115
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Eye_Left
+  rotate: false
+  xy: 827, 199
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: true
+  xy: 250, 10
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 892, 197
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 484, 102
+  size: 208, 144
+  orig: 208, 144
+  offset: 0, 0
+  index: -1
+Horseshoe
+  rotate: false
+  xy: 484, 10
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 702, 185
+  size: 115, 61
+  orig: 115, 61
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 575, 44
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+Pupil
+  rotate: false
+  xy: 772, 147
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Slam
+  rotate: false
+  xy: 10, 30
+  size: 230, 216
+  orig: 230, 216
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 575, 22
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1

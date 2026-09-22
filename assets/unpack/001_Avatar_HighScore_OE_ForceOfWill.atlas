@@ -1,0 +1,244 @@
+
+001_Avatar_HighScore_OE_ForceOfWill.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 1729, 68
+  size: 203, 205
+  orig: 203, 205
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 10, 12
+  size: 489, 489
+  orig: 489, 489
+  offset: 0, 0
+  index: -1
+Circuit_Dot
+  rotate: false
+  xy: 1998, 326
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Circuit_Line
+  rotate: false
+  xy: 1998, 305
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Circuit_Tip
+  rotate: false
+  xy: 1998, 282
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Earphone
+  rotate: true
+  xy: 1900, 282
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+Electricity_FX
+  rotate: false
+  xy: 1900, 363
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 1246, 16
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+EyesFX
+  rotate: false
+  xy: 1181, 65
+  size: 538, 163
+  orig: 538, 163
+  offset: 0, 0
+  index: -1
+Eyes_Close_1
+  rotate: false
+  xy: 509, 47
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+Eyes_Close_2
+  rotate: false
+  xy: 859, 42
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+Frame_1
+  rotate: false
+  xy: 1729, 10
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_10
+  rotate: true
+  xy: 626, 39
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_11
+  rotate: true
+  xy: 684, 39
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_12
+  rotate: false
+  xy: 742, 39
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_2
+  rotate: true
+  xy: 1025, 99
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_3
+  rotate: false
+  xy: 1025, 41
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_4
+  rotate: true
+  xy: 1083, 99
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_5
+  rotate: false
+  xy: 509, 156
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_6
+  rotate: false
+  xy: 626, 156
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_7
+  rotate: true
+  xy: 743, 97
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_8
+  rotate: true
+  xy: 801, 97
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Frame_9
+  rotate: false
+  xy: 509, 98
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: true
+  xy: 872, 93
+  size: 113, 143
+  orig: 113, 143
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 1142, 14
+  size: 94, 41
+  orig: 94, 41
+  offset: 0, 0
+  index: -1
+Hair_3
+  rotate: true
+  xy: 1354, 18
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+Hair_4
+  rotate: true
+  xy: 1609, 238
+  size: 33, 108
+  orig: 33, 108
+  offset: 0, 0
+  index: -1
+Hair_5
+  rotate: false
+  xy: 1944, 25
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 1944, 146
+  size: 84, 126
+  orig: 84, 126
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 872, 216
+  size: 299, 285
+  orig: 299, 285
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: true
+  xy: 509, 214
+  size: 287, 353
+  orig: 287, 353
+  offset: 0, 0
+  index: -1
+LimitPixel
+  rotate: false
+  xy: 2021, 294
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 1609, 281
+  size: 220, 281
+  orig: 220, 281
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 1181, 238
+  size: 418, 263
+  orig: 418, 263
+  offset: 0, 0
+  index: -1

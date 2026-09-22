@@ -1,0 +1,90 @@
+
+020_Emote_CarromReviewSystem_Bangladesh.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaseHead
+  rotate: false
+  xy: 224, 90
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+BottomGlove
+  rotate: false
+  xy: 735, 81
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Cap
+  rotate: false
+  xy: 388, 130
+  size: 152, 114
+  orig: 152, 114
+  offset: 0, 0
+  index: -1
+EYES
+  rotate: false
+  xy: 388, 59
+  size: 125, 61
+  orig: 125, 61
+  offset: 0, 0
+  index: -1
+FullGlove
+  rotate: true
+  xy: 550, 143
+  size: 101, 148
+  orig: 101, 148
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 708, 177
+  size: 156, 67
+  orig: 156, 67
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 708, 133
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 10, 32
+  size: 204, 212
+  orig: 204, 212
+  offset: 0, 0
+  index: -1
+ShineHead
+  rotate: false
+  xy: 550, 59
+  size: 113, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+ThumbGlove
+  rotate: false
+  xy: 673, 59
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+TopFrontGlove
+  rotate: true
+  xy: 874, 174
+  size: 70, 127
+  orig: 70, 127
+  offset: 0, 0
+  index: -1
+TopFrontGlove_Shadow
+  rotate: true
+  xy: 224, 10
+  size: 70, 127
+  orig: 70, 127
+  offset: 0, 0
+  index: -1

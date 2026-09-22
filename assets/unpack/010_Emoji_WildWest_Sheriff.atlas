@@ -1,0 +1,118 @@
+
+010_Emoji_WildWest_Sheriff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 10, 16
+  size: 195, 224
+  orig: 195, 224
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 496, 10
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+EyeLid
+  rotate: true
+  xy: 976, 192
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 597, 113
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 386, 14
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+HatBase
+  rotate: false
+  xy: 215, 121
+  size: 209, 119
+  orig: 209, 119
+  offset: 0, 0
+  index: -1
+HatTop
+  rotate: false
+  xy: 604, 143
+  size: 117, 97
+  orig: 117, 97
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 843, 123
+  size: 122, 50
+  orig: 122, 50
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 434, 92
+  size: 127, 52
+  orig: 127, 52
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 843, 183
+  size: 123, 57
+  orig: 123, 57
+  offset: 0, 0
+  index: -1
+Pupil
+  rotate: false
+  xy: 661, 106
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+PupilHide
+  rotate: true
+  xy: 571, 101
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: false
+  xy: 215, 25
+  size: 161, 86
+  orig: 161, 86
+  offset: 0, 0
+  index: -1
+Shade
+  rotate: false
+  xy: 434, 154
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+SheriffStar
+  rotate: false
+  xy: 731, 152
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 698, 108
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
